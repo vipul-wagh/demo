@@ -1,4 +1,4 @@
-# demo
+cd# demo
 This is my first Git Repository.
 <br>
-Auther-Vipul Wagh
+Auther-Vipul Hanumant Wagh
